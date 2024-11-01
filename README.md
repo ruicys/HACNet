@@ -11,7 +11,8 @@ The architecture of **HACNet** is shown below.
 
 ## Results
 
-### Download Links:  [Google Drive]([https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1MRVD6A_CEAEH_2xqYUTtHdC20nmWbdpk?dmr=1&ec=wgc-drive-hero-goto))
+### Download Links: - [Google Drive](https://drive.google.com/drive/folders/1MRVD6A_CEAEH_2xqYUTtHdC20nmWbdpk?dmr=1&ec=wgc-drive-hero-goto)
+
 
 ## Acknowledgments
 
