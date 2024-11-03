@@ -9,6 +9,12 @@ This repository provides the implementation of our single image dehazing algorit
 The architecture of **HACNet** is shown below. 
 ![HACNet Framework](fig/HACNet.png)
 
+## Prepare dataset for training and evaluation
+
+### Download Links: - [Google Drive](https://sites.google.com/view/reside-dehaze-datasets)(ITS, OTS, SOTS)
+### Download Links: - [Google Drive](https://data.vision.ee.ethz.ch/cvl/ntire19//dense-haze/)(Dense-Haze)
+### Download Links: - [Google Drive](https://data.vision.ee.ethz.ch/cvl/ntire20/nh-haze/)(NH-Haze)
+
 ## Results
 
 ### Download Links: - [Google Drive](https://drive.google.com/drive/folders/1MRVD6A_CEAEH_2xqYUTtHdC20nmWbdpk?dmr=1&ec=wgc-drive-hero-goto)
