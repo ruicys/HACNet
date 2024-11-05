@@ -79,4 +79,4 @@ python train.py --model 'HACNet-l' --exp 'indoor' --train_dataset 'ITS' --valid_
 
 ## Acknowledgments
 
-This code is based on [Restormer](https://github.com/swz30/Restormer).
+This code is based on [DehazeFormer](https://github.com/IDKiro/DehazeFormer).
